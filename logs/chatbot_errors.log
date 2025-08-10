@@ -1,0 +1,10 @@
+2025-08-03 15:51:11,437 - ERROR - Error loading models: Repo id must be in the form 'repo_name' or 'namespace/repo_name': './models/sentiment_model'. Use `repo_type` argument if needed.
+2025-08-03 15:59:42,320 - ERROR - Error loading models: Repo id must be in the form 'repo_name' or 'namespace/repo_name': './models/sentiment_model'. Use `repo_type` argument if needed.
+2025-08-03 16:00:35,961 - ERROR - Error in main loop: 'EmotionSentimentPipeline' object has no attribute 'llama_responder'
+2025-08-03 16:01:13,354 - ERROR - Failed to load LLaMA model: Failed to load model from file: models/Llama-3.2-3B-Instruct-Q5_K_S.gguf
+2025-08-03 16:59:00,246 - ERROR - Failed to load LLaMA model: Failed to load model from file: ./models/Llama-3.2-3B-Instruct-Q5_K_S.gguf
+2025-08-03 17:00:45,173 - ERROR - Failed to load LLaMA model: Failed to load model from file: models/Llama-3.2-3B-Instruct-Q5_K_S.gguf
+2025-08-03 17:05:12,081 - ERROR - Failed to load LLaMA model: Failed to load model from file: ./models/Llama-3.2-3B-Instruct-Q5_K_S.gguf
+2025-08-03 23:52:55,627 - ERROR - Failed to load LLaMA model: Failed to load model from file: models/Llama-3.2-3B-Instruct-Q5_K_S.gguf
+2025-08-03 23:55:50,388 - ERROR - Error loading models: The paging file is too small for this operation to complete. (os error 1455)
+2025-08-03 23:55:53,331 - ERROR - Error in main loop: 'EmotionSentimentPipeline' object has no attribute 'llama_responder'

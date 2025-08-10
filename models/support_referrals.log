@@ -1,0 +1,32 @@
+[2025-07-16T08:29:38.891502] URGENT SUPPORT REFERRAL
+Session Duration: 0:01:46.554494
+Cumulative Score: 2
+Crisis Keywords Detected: 1
+Recent History: [
+  {
+    "user": "Hello",
+    "bot": "Hello! I'm here to listen and support you. How are you feeling today?",
+    "emotion": "Content",
+    "sentiment": "Neutral",
+    "score": 2,
+    "timestamp": "2025-07-16T08:28:20.379081"
+  },
+  {
+    "user": "Not very good",
+    "bot": "I'm so sorry to hear that. It sounds like you're struggling with some difficult emotions. Would you like to talk about what's on your mind and how you're feeling?",
+    "emotion": "disgusted",
+    "sentiment": "Negative",
+    "score": 0,
+    "timestamp": "2025-07-16T08:28:39.107227"
+  },
+  {
+    "user": "I feel like i m always alone",
+    "bot": "That sounds incredibly painful and isolating. It's like there's a huge weight on your shoulders, and you're carrying it all by yourself. Can you tell me more about what's making you feel this way? Is there something specific that's causing you to feel alone, or is it a general feeling?",
+    "emotion": "lonely",
+    "sentiment": "Negative",
+    "score": 0,
+    "timestamp": "2025-07-16T08:28:53.541888"
+  }
+]
+--------------------------------------------------
+

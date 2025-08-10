@@ -1,0 +1,45 @@
+{
+  "best_f1": 0.7221429115952481,
+  "best_params": {
+    "learning_rate": 0.00010459501266744165,
+    "batch_size": 16,
+    "num_epochs": 3,
+    "warmup_ratio": 0.2436579150116092,
+    "weight_decay": 0.0019164159770578442,
+    "lr_scheduler_type": "linear"
+  },
+  "final_results": {
+    "eval_loss": 0.18389561772346497,
+    "eval_accuracy": 0.9564207756018268,
+    "eval_f1_weighted": 0.9563550177960743,
+    "eval_f1_macro": 0.9575199418002491,
+    "eval_precision": 0.9565326830316049,
+    "eval_recall": 0.9564207756018268,
+    "eval_runtime": 9.8618,
+    "eval_samples_per_second": 1310.009,
+    "eval_steps_per_second": 40.966,
+    "epoch": 3.0
+  },
+  "label_mappings": {
+    "emotion_label_to_id": {
+      "afraid": 0,
+      "angry": 1,
+      "ashamed": 2,
+      "calm": 3,
+      "happy": 4,
+      "other": 5,
+      "sad": 6,
+      "surprised": 7
+    },
+    "emotion_id_to_label": {
+      "0": "afraid",
+      "1": "angry",
+      "2": "ashamed",
+      "3": "calm",
+      "4": "happy",
+      "5": "other",
+      "6": "sad",
+      "7": "surprised"
+    }
+  }
+}

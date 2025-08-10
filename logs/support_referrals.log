@@ -1,0 +1,59 @@
+[2025-08-03T17:17:33.170840] URGENT SUPPORT REFERRAL
+Session Duration: 0:00:20.994213
+Cumulative Score: 0.0
+Crisis Keywords Detected: 0
+Emotional Trend: insufficient_data
+Recent Emotion Pattern: [['neutral']]
+Recent History: [
+  {
+    "user": "hi",
+    "bot": "Hi there! How may I assist you today?",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.9548875689506531
+      }
+    ],
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "timestamp": "2025-08-03T17:17:24.551164"
+  }
+]
+--------------------------------------------------
+
+[2025-08-03T17:17:54.993684] URGENT SUPPORT REFERRAL
+Session Duration: 0:00:42.817057
+Cumulative Score: 2.9571030139923096
+Crisis Keywords Detected: 0
+Emotional Trend: insufficient_data
+Recent Emotion Pattern: [['neutral'], ['joy']]
+Recent History: [
+  {
+    "user": "hi",
+    "bot": "Hi there! How may I assist you today?",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.9548875689506531
+      }
+    ],
+    "sentiment": "Neutral",
+    "score": 0.0,
+    "timestamp": "2025-08-03T17:17:24.551164"
+  },
+  {
+    "user": "ok i m happy",
+    "bot": "You're welcome. Happy? What kind of joy are we talking about here?",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.7392757534980774
+      }
+    ],
+    "sentiment": "Positive",
+    "score": 2.9571030139923096,
+    "timestamp": "2025-08-03T17:17:47.326529"
+  }
+]
+--------------------------------------------------
+

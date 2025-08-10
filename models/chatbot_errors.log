@@ -1,0 +1,19 @@
+2025-07-15 18:18:42,525 - ERROR - Error loading models: Incorrect path_or_model_id: './best_model'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-07-15 18:19:31,779 - ERROR - Error loading models: [Errno 2] No such file or directory: 'emotion_model_results.json'
+2025-07-15 18:19:56,719 - ERROR - Error loading models: Incorrect path_or_model_id: './training_scripts/best_sentiment_model'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2025-07-15 18:20:47,563 - ERROR - Error loading models: training_scripts/best_sentiment_model is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-07-15 18:21:55,547 - ERROR - Error loading models: training_scripts/best_sentiment_model is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-07-15 18:22:14,555 - ERROR - Error loading models: training_scripts/best_sentiment_model is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
+2025-07-15 18:22:45,456 - ERROR - Error loading models: 'extended_emotion_classifier_path'
+2025-07-15 18:27:29,579 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Kernel.poll_control_queue() running at /usr/local/lib/python3.12/dist-packages/ipykernel/kernelbase.py:304> wait_for=<Future finished result=<Future at 0x...state=pending>> cb=[_chain_future.<locals>._call_set_state() at /usr/lib/python3.12/asyncio/futures.py:394]>
+2025-07-15 19:10:32,532 - ERROR - Error loading models: [Errno 2] No such file or directory: './labelencoder.pkl'
+2025-07-15 19:10:47,369 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Kernel.poll_control_queue() running at /usr/local/lib/python3.12/dist-packages/ipykernel/kernelbase.py:304> wait_for=<Future finished result=<Future at 0x...state=pending>> cb=[_chain_future.<locals>._call_set_state() at /usr/lib/python3.12/asyncio/futures.py:394]>
+2025-07-15 19:27:24,049 - ERROR - Error in main loop: 'ConversationState' object has no attribute 'save_conversation_log'
+2025-07-15 19:28:43,424 - ERROR - Critical error initializing chatbot: 'ConversationState' object has no attribute 'save_conversation_log'
+2025-07-16 08:04:30,609 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Kernel.poll_control_queue() running at /usr/local/lib/python3.12/dist-packages/ipykernel/kernelbase.py:304> wait_for=<Future finished result=<Future at 0x...state=pending>> cb=[_chain_future.<locals>._call_set_state() at /usr/lib/python3.12/asyncio/futures.py:394]>
